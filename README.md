@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...C,Java,Python, Etc
 - 💞️ I’m looking to collaborate on ...
  
-- 📫 How to reach me ...@yashchutake@gmail.com
+- 📫 How to reach me ...yashchutake@gmail.com
 -  @yash_chutake(Instagram)
 
 <!---
