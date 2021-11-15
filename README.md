@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @yashchutake10
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Java,Python Etc
+- 🌱 I’m currently learning ...C,Java,Python, Etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @yash_chutake(Insta)
+ 
+- 📫 How to reach me ...@yashchutake@gmail.com
+-  @yash_chutake(Instagram)
 
 <!---
 yashchutake10/yashchutake10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
