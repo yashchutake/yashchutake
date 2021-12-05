@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yashchutake10
+- 👋 Hi, I’m @yashchutake
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...C,Java,Python, Etc
 - 💞️ I’m looking to collaborate on ...
- 
+
 - 📫 How to reach me ...yashchutake@gmail.com
 -  @yash_chutake(Instagram)
 
