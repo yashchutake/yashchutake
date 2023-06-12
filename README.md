@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-As a software developer student with expertise in Java, React.js, MERN Stack, and Android Development, I am actively seeking a good position in the industry. My primary focus is on GitHub, a widely-used platform for version control and collaborative software development. Here is a summary of my skills and experience:
+As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.GitHub a widely-used platform for version control and collaborative software development. Here is a summary of my skills and experience:
 
 Frameworks / Libraries - Android (Java), Bootstrap, React.Js
 Programming Languages - Java (Advance), C / C++, JavaScript, Python(Basic),PHP <br>
@@ -45,13 +45,13 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashchutake&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaKumar28&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=yashchutake&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
