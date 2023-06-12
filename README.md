@@ -41,17 +41,9 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/xampp/xampp.png"></code>&nbsp;
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postman/postman.png"></code>&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>&nbsp;
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/seo/seo.png"></code>&nbsp;
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wolverine3650&show_icons=true&theme=gotham" alt="Wolverine3650" />
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine3650&layout=compact&theme=gotham" />
-<br /> -->
-
-
-
-
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine3650&layout=compact&theme=gotham" /><br /> -->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
