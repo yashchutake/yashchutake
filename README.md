@@ -3,7 +3,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.GitHub a widely-used platform for version control and collaborative software development. Here is a summary of my skills and experience:
+As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.GitHub a widely-used platform for version control and collaborative software development.
+Here is a summary of my skills and experience:
 
 Frameworks / Libraries - Android (Java), Bootstrap, React.Js
 Programming Languages - Java (Advance), C / C++, JavaScript, Python(Basic),PHP <br>
@@ -13,8 +14,8 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 
 <!-- As a Software Developer , I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise MERN & In front end-React.js and also in Backend- MongoDB ,Express.js ,Node.js, Database Management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br> -->
 
-![](https://komarev.com/ghpvc/?username=yashchutake&color=447ff7&label=Visitor+count)
-
+<!-- ![](https://komarev.com/ghpvc/?username=yashchutake&color=447ff7&label=Visitor+count) -->
+![](https://komarev.com/ghpvc/?username=yashchutake&color=FF0000&label=Visitor+count)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
