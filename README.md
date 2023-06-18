@@ -3,12 +3,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.GitHub a widely-used platform for version control and collaborative software development.
+As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.<br>
 Here is a summary of my skills and experience:
 
-Frameworks / Libraries - Android (Java), Bootstrap, React.Js
+Frameworks / Libraries - Android (Java), Bootstrap, MERN Stack (MongoDB, Express.Js, React.Js, Node.Js)
 Programming Languages - Java (Advance), C / C++, JavaScript, Python(Basic),PHP <br>
-Others - HTML, CSS, Data Structure(DSA), Linux, MySQL, Git & GitHub, SEO, Xampp, Postman. 
+Others - HTML, CSS, Data Structure(DSA), Linux, MySQL, Git & GitHub, SEO, Postman, Xampp. 
 
 In addition to my technical skills, I am a quick learner, detail-oriented, and possess excellent problem-solving abilities. I am passionate about staying up-to-date with the latest technologies and frameworks. I am excited to bring my skills and enthusiasm to a position that allows me to contribute to meaningful projects and further enhance my expertise.
 
