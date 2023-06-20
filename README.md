@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Chutake</h1>
-<p>
+<!-- <p>
     <img src="animation.gif" width="220" height="240" />
-</p>
+</p> -->
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-# 💫 About Me:
+# 💫 About Me: 
 As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.<br>
 Here is a summary of my skills and experience:
 
@@ -46,7 +46,7 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashchutake&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> 
@@ -59,7 +59,7 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dynamic Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
