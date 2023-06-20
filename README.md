@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 
-#<h2>💫 About Me: </h2>
+<h2>💫 About Me: </h2>
 
 As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.<br>
 Here is a summary of my skills and experience:
@@ -21,7 +21,7 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-#<h2>💻 Tech Stack: </h2>
+<h2>💻 Tech Stack: </h2>
 
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>&nbsp;
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"></code>&nbsp;
@@ -49,21 +49,22 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#<h2>📊 GitHub Stats </h2>
+<h2>📊 GitHub Stats </h2>
 <p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashchutake&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
+<br/> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#<h2>🏆 GitHub Trophies</h2>
+
+<h2>🏆 GitHub Trophies</h2>
 ![](https://github-profile-trophy.vercel.app/?username=yashchutake&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#<h2> ✍️ Dynamic Dev Quote </h2>
+<h2> ✍️ Dynamic Dev Quote </h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
