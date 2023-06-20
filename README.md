@@ -5,7 +5,10 @@
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-# 💫 About Me: 
+<h2># 💫 About Me: </h2>
+<h3># 💫 About Me: </h3>
+<h4># 💫 About Me: </h4>
+<h5># 💫 About Me: </h5>
 As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.<br>
 Here is a summary of my skills and experience:
 
