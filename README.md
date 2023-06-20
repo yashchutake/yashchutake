@@ -56,14 +56,13 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<h2>🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashchutake&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h2> ✍️ Dynamic Dev Quote </h2>
+### ✍️ Dynamic Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
