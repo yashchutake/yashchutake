@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Chutake</h1>
-<img src="https://drive.google.com/file/d/1jjLG8rZ9Z9HA5wy_eOkwybmGFxPJOmrm/view">
+<p>
+    <img src="animation.gif" width="220" height="240" />
+</p>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
@@ -39,7 +41,7 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>&nbsp;
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"></code>&nbsp;
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"></code>&nbsp;
-
+<code><img height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>&nbsp;
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
