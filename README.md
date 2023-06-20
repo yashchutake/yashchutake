@@ -53,10 +53,10 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
-<div align="left">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
 </div>
 
