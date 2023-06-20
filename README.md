@@ -51,10 +51,12 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 
 <h2>📊 GitHub Stats </h2>
 <div style="display: flex; justify-content: center;">
-![](https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+![](https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+</div>
+<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashchutake&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>🏆 GitHub Trophies</h2>
