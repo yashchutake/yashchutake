@@ -3,19 +3,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.<br>
+As a Software Developer with expertise in Java, MERN Stack & Android Development, I am actively seeking a good position in the industry.GitHub a widely-used platform for version control and collaborative software development.
 Here is a summary of my skills and experience:
 
-Frameworks / Libraries - Android (Java), Bootstrap, MERN Stack (MongoDB, Express.Js, React.Js, Node.Js)
+Frameworks / Libraries - Android (Java), Bootstrap, React.Js
 Programming Languages - Java (Advance), C / C++, JavaScript, Python(Basic),PHP <br>
-Others - HTML, CSS, Data Structure(DSA), Linux, MySQL, Git & GitHub, SEO, Postman, Xampp. 
+Others - HTML, CSS, Data Structure(DSA), Linux, MySQL, Git & GitHub, SEO, Xampp, Postman. <br>
 
-In addition to my technical skills, I am a quick learner, detail-oriented, and possess excellent problem-solving abilities. I am passionate about staying up-to-date with the latest technologies and frameworks. I am excited to bring my skills and enthusiasm to a position that allows me to contribute to meaningful projects and further enhance my expertise.
+In addition to my technical skills, I am a quick learner, detail-oriented, and possess excellent problem-solving abilities. I am passionate about staying up-to-date with the latest technologies and frameworks. I am excited to bring my skills and enthusiasm to a position that allows me to contribute to meaningful projects and further enhance my expertise. <br>
 
+
+
+<!-- ![](https://komarev.com/ghpvc/?username=yashchutake&color=447ff7&label=Visitor+count) -->
 ![](https://komarev.com/ghpvc/?username=yashchutake&color=FF0000&label=Visitor+count)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
+
+ 
 **Languages and Tools:**  
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;
@@ -37,6 +42,8 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>&nbsp;
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wolverine3650&show_icons=true&theme=gotham" alt="Wolverine3650" />
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine3650&layout=compact&theme=gotham" /><br /> -->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
