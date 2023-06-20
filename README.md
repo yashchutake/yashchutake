@@ -2,7 +2,7 @@
 <!-- <p>
     <img src="animation.gif" width="220" height="240" />
 </p> -->
-<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<p align="center"><img src="animation.gif" width="600" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 
@@ -51,13 +51,13 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 
 <h2>📊 GitHub Stats </h2>
 <div align="center">
-  <img width="550"src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img width="450"src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 <div align="center">
-  <img width="550" src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 <div align="center">
-  <img width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
 </div>
 
 <br/>
@@ -72,7 +72,7 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 
 <h2>✍️ Dynamic Dev Quote </h2>
 <div align="center">
-  <img width="550" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Stats" width="500">
+  <img width="650" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Stats" width="500">
 </div>
 
 <br>
