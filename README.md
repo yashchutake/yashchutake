@@ -51,13 +51,13 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 
 <h2>📊 GitHub Stats </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500">
+  <img height="500"src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img width="700" src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
+  <img height="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
 </div>
 
 <br/>
