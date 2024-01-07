@@ -49,7 +49,7 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>📊 Leetcode Stats</h2> 
+<h2>📊 Leetcode Stats</h2> <a href="https://leetcode.com/yash_chutake/">Profile -></a>
 <div align="center">
     
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yash_chutake?ext=heatmap)
