@@ -49,14 +49,20 @@ In addition to my technical skills, I am a quick learner, detail-oriented, and p
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2>📊 Leetcode Stats</h2> 
+<div align="center">
+    
+![Leetcode Stats](https://leetcard.jacoblin.cool/yash_chutake?ext=heatmap)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/yash_chutake?ext=contest) -->
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h2>📊 GitHub Stats </h2>
-![](https://leetcard.jacoblin.cool/jacoblincool?cache=0)
 <div align="center">
   <img width="450"src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
-<div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</div> 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchutake&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
 </div>
